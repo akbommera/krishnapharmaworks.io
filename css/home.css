@@ -193,6 +193,9 @@ footer p{
 .services-box-style-06 p{
     margin-bottom: 0;
 }
+.border-color-transparent-dark-very-light{
+    background-color: #8e93c729;
+}
 /* media query responsive */
 @media (max-width: 1499px) {
     .navbar .navbar-nav .nav-link {
